@@ -9,8 +9,16 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "firebase": "^10.5.0",
+    "locomotive-scroll": "^4.1.4",
+    "motion": "^10.16.4",
     "next": "13.5.2",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-animated-cursor": "^2.11.2",
+    "react-dom": "18.2.0",
+    "sass": "^1.68.0",
+    "sheryjs": "^1.0.0-beta.0.0.8",
+    "moment": "^2.29.4",
+    "react-moment": "^1.1.3"
   }
 }
